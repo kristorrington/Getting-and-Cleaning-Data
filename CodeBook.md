@@ -12,7 +12,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 This code book summarizes the resulting data fields in tidy_data.txt.
 
-##Data Source
+## Data Source
 
 Data downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -24,12 +24,12 @@ The "X_test.txt", "y_test.txt" and "subjuect_test.txt" files contain information
 
 The "features.txt" file contain the names of all the measurements.
 
-###Identifiers
+### Identifiers
 
 subject - The ID of the test subject
 activity - The type of activity performed when the corresponding measurements were taken
 
-###Activity Labels
+### Activity Labels
 
 WALKING (value 1): subject was walking during the test
 
